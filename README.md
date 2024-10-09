@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/msawenkosi-magagula-b492257b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a cybersecurity student enrolled in Google's Professional Certificate program on Coursera, currently on my fifth course. I have a passion for solving complex tech problems and enjoy learning about operating systems, the Linux command line, and SQL queries. I'm eager to continue honing my skills and advancing in the cybersecurity field.
+As a cybersecurity analyst actively enrolled in Google's Professional Certificate program on Coursera, I bring a strong foundation in addressing complex technical challenges. My experience includes proficiency in operating systems, Linux command-line interfaces, and SQL query optimization. With a deep interest in ethical hacking, I continuously refine my expertise to stay ahead in the cybersecurity landscape. I am committed to advancing my technical skillset and contributing to securing digital environments.
 
 ## Objective
-To leverage my growing expertise in cybersecurity to solve complex technical problems, enhance my knowledge of operating systems and SQL, and contribute effectively to securing digital environments.
+To leverage my expertise as a cybersecurity analyst, utilizing advanced skills in operating systems, Linux command-line, SQL queries, and ethical hacking, to safeguard digital assets and enhance organizational security posture. I aim to continuously grow in the cybersecurity domain by staying ahead of emerging threats and honing my technical competencies in a dynamic and challenging environment.
 
 ## Skills
 
