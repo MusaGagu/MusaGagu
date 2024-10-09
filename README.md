@@ -38,6 +38,8 @@ To leverage my expertise as a cybersecurity analyst, utilizing advanced skills i
 <a href="https://coursera.org/share/6d32fd8a23c732b2de9649b3159adfd6"><img src="https://img.shields.io/badge/-Manage_Security_Risks-0000FF?&style=for-the-badge&logo=Google&logoColor=black" /></a>
 <a href="https://coursera.org/share/e5f4c5b74785e34fb7293168ee2e39d3"><img src="https://img.shields.io/badge/-Networks and Network Security-000000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://coursera.org/share/9be711d9422e1c1a691f736c802676d4"><img src="https://img.shields.io/badge/-Linux and SQL-800080?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://coursera.org/share/9be711d9422e1c1a691f736c802676d4"><img src="https://img.shields.io/badge/-Automate Cybersecurity Tasks with Python-800080?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://coursera.org/share/9be711d9422e1c1a691f736c802676d4"><img src="https://img.shields.io/badge/-Connect and Protect: Networks and Network Security-800080?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
 
 ## Projects
